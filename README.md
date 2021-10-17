@@ -4,7 +4,7 @@
 
 # Federalist documentation
 
-This is an informational site with background on [Federalist](https://federalist.18f.gov/), a compliant static site publishing service for the federal government.
+This is an informational site with background on [Federalist](https://federalist.18f.gov/), a compliant static site publishing service for the federal governments.
 
 ## Setup
 
@@ -27,4 +27,3 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 > All contributions to this project will be released under the CC0
 >dedication. By submitting a pull request, you are agreeing to comply
 >with this waiver of copyright interest.
-
