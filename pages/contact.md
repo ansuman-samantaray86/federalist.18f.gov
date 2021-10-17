@@ -2,6 +2,7 @@
 permalink: /contact/
 title: Contact
 layout: default
+published: true
 ---
 <div class="usa-grid info-block usa-content">
     <h1>Contact</h1>
@@ -17,6 +18,6 @@ layout: default
       <a href="https://cloudgov.statuspage.io">Check cloud.gov's current status and history of uptime</a>.</p>
     <h2>Report a vulnerability</h2>
     <p>We welcome vulnerability reports
-      <a href="https://18f.gsa.gov/vulnerability-disclosure-policy/">according to our vulnerability disclosure policy</a>. We accept and discuss vulnerability reports on <a href="https://hackerone.com/tts">HackerOne</a>, via email at <a href="mailto:tts-vulnerability-reports@gsa.gov">tts-vulnerability-reports@gsa.gov</a>, or <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform">through this reporting form</a>. Please review our vulnerability disclosure policy before reporting a vulnerability.
+      <a href="https://18f.gsa.gov/vulnerability-disclosure-policy/">according to our vulnerability disclosure policy</a>. We accept and discuss vulnerability reports on <a href="https://hackerone.com/tts">HackerOne</a>, via email at <a href="mailto:tts-vulnerability-reports@gsa.gov">tts-vulnerability-reports@gsa.gov</a>, or <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhr6REOq8QRZ3C2cRWVHWbjcGgdNL8_nVSGY1cBSl1-tfkWA/viewform">through this reporting form</a>. Please review our vulnerability disclosure policy before reporting a vulnerabilitys.
     </p>
   </div>
